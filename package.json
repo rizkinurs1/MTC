@@ -1,0 +1,15 @@
+{
+  "name": "suitecloud-project",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "suitecloud project:deploy",
+    "test": "jest",
+    "validate": "suitecloud project:deploy --dryrun"
+  },
+  "devDependencies": {
+    "jest": "29.6.1",
+    "@types/jest": "29.5.3",
+    "@oracle/suitecloud-unit-testing": "^1.4.0",
+    "@oracle/suitecloud-cli": "^1"
+  }
+}

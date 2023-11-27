@@ -1,0 +1,166 @@
+[33mcommit a767a35c22c7c3391e2dcf4afa1094f8895d0d93[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 15:23:31 2023 +0700
+
+    Sample Runing Piepline
+
+[33mcommit 5ee177f953a5d0e7d081f0e2084b582b1f35c1af[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 13:36:13 2023 +0700
+
+    Testing Pipeline
+
+[33mcommit 2821b6dae444cd34d13be1af6c0452b1005d9dfa[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 13:14:04 2023 +0700
+
+    deploy test
+
+[33mcommit 72c50fc1d78e5e8fd5dc895ed700676dab095192[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 13:11:37 2023 +0700
+
+    test
+
+[33mcommit 4a77744cbba67b63d4cf73bde6b47bf105924570[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 12:15:15 2023 +0700
+
+    update
+
+[33mcommit 6cc4423813a39e1fb5c1ade4d4bc5cf83fb44457[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 12:13:12 2023 +0700
+
+    update
+
+[33mcommit 8d4b6ed6b87c13b573c5932ec4927c4eac21a63d[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 12:11:38 2023 +0700
+
+    update deploy
+
+[33mcommit 9aa77dc428e7f62555ba56a32b2f517c05984a72[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 12:09:42 2023 +0700
+
+    Update deploy
+
+[33mcommit d807922d1a57059faa5abc970a5eb52fc66f6f61[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 12:06:12 2023 +0700
+
+    update
+
+[33mcommit a0286a71b7cb1c936b12402fb04e4730e4e2e089[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 12:01:24 2023 +0700
+
+    setup Account
+
+[33mcommit c28e64f96665c756b188706bdd624725d59811c5[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 11:58:55 2023 +0700
+
+    add and deploy to account demo test
+
+[33mcommit 8b4003435efedbb60f500ed1f545031e47fdf4cd[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 11:56:11 2023 +0700
+
+    Update validate and Deploy
+
+[33mcommit 63fa19088be28e962657588a8ab01ceeacce5296[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 11:54:10 2023 +0700
+
+    Update Package to validate
+
+[33mcommit 124e32fefc582abaa32cb530701af058634d27c8[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 11:51:15 2023 +0700
+
+    update sdf validate
+
+[33mcommit b3de1f0050e063c78b943441e2251303bd11893e[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 11:49:23 2023 +0700
+
+    cek token value
+
+[33mcommit db19cc2e39003e7841672ab140dfeb1cccb0b24f[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 11:31:21 2023 +0700
+
+    Update Path
+
+[33mcommit 3bfb176916687ffe001bd4dc86cc38008f31d192[m
+Merge: c33c1cb ada8721
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 11:22:45 2023 +0700
+
+    Merge branch 'main' of https://github.com/rizkinurs1/testing
+
+[33mcommit c33c1cb898d575a69d2b526480c808bb5eaa9d49[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 11:21:22 2023 +0700
+
+    Update Action Validate
+
+[33mcommit ada8721d2395918ac8ab230fc7a53d635ba3ed1f[m
+Author: RizkiNurS <56358066+rizkinurs1@users.noreply.github.com>
+Date:   Mon Nov 20 11:10:00 2023 +0700
+
+    Update sample-test.js
+
+[33mcommit 66f3077e2672c0d1ae92f69f2f2592cff810bad1[m
+Merge: 0f3806b 7063c42
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 10:55:59 2023 +0700
+
+    Merge branch 'main' of https://github.com/rizkinurs1/testing
+
+[33mcommit 0f3806bae9807cc24849d445102a0c6219363052[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 10:55:48 2023 +0700
+
+    Test Failed Action Push
+
+[33mcommit 7063c42471ca8019bc015d3fb1d865e4b66fd01e[m
+Merge: 244656a 29060b0
+Author: RizkiNurS <56358066+rizkinurs1@users.noreply.github.com>
+Date:   Mon Nov 20 10:53:15 2023 +0700
+
+    Merge pull request #1 from rizkinurs1/add-actions-config
+    
+    Update File
+
+[33mcommit 29060b05d4cf24266350e88cb0071fdd8b47ae83[m[33m ([m[1;31morigin/add-actions-config[m[33m, [m[1;32madd-actions-config[m[33m)[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 10:46:19 2023 +0700
+
+    Update File
+
+[33mcommit 244656af3bd85e3c23013f634fe66d25dfe0bae2[m
+Author: RizkiNurS <56358066+rizkinurs1@users.noreply.github.com>
+Date:   Mon Nov 20 10:43:02 2023 +0700
+
+    Update package.json
+
+[33mcommit f798f3227486456800c0a0057809c8174baf5af0[m
+Author: RizkiNurS <56358066+rizkinurs1@users.noreply.github.com>
+Date:   Mon Nov 20 10:37:47 2023 +0700
+
+    Create sdf-validate.yml
+
+[33mcommit 06c42db4510ce4ef44020b47474690581316c3b9[m
+Author: RizkiNurS <56358066+rizkinurs1@users.noreply.github.com>
+Date:   Mon Nov 20 10:07:36 2023 +0700
+
+    Create github-action-demo.yml
+
+[33mcommit 1f83b952de7e8794c7a1ea2fb47e815c66e8e332[m
+Author: Khalidsyah Kharisma Putra <v-khalidsyah.putra@anteraja.id>
+Date:   Mon Nov 20 09:54:17 2023 +0700
+
+    Initial project
